@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="639ed4b8-37ec-4af8-b8d5-094fa5d31225" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lab1/labFirst_var2" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/labFirst_var2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kYTM0txEgwptmDt5L9xxql30x1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+    <configuration name="Dockerfile (1)" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile (1)" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639ed4b8-37ec-4af8-b8d5-094fa5d31225" name="Default Changelist" comment="" />
+      <created>1605876473221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605876473221</updated>
+      <workItem from="1605876474300" duration="468000" />
+      <workItem from="1605876965761" duration="1794000" />
+      <workItem from="1605878781002" duration="927000" />
+      <workItem from="1605880029696" duration="464000" />
+      <workItem from="1605880583019" duration="1155000" />
+      <workItem from="1605881785310" duration="1194000" />
+      <workItem from="1605882999761" duration="1425000" />
+      <workItem from="1605884445515" duration="1793000" />
+      <workItem from="1605886272235" duration="769000" />
+      <workItem from="1605887527179" duration="1793000" />
+      <workItem from="1605943210753" duration="951000" />
+      <workItem from="1605944271517" duration="1443000" />
+      <workItem from="1605945969245" duration="452000" />
+      <workItem from="1605947197000" duration="979000" />
+      <workItem from="1605948579628" duration="476000" />
+      <workItem from="1605968800174" duration="1270000" />
+      <workItem from="1605970135431" duration="678000" />
+      <workItem from="1605970882142" duration="166000" />
+      <workItem from="1605971325816" duration="1224000" />
+      <workItem from="1605972569342" duration="109000" />
+      <workItem from="1605972823483" duration="943000" />
+      <workItem from="1605973980913" duration="623000" />
+      <workItem from="1605974818619" duration="1596000" />
+      <workItem from="1605977281635" duration="1749000" />
+      <workItem from="1605979518176" duration="703000" />
+      <workItem from="1605980466050" duration="1607000" />
+      <workItem from="1605982246148" duration="1518000" />
+      <workItem from="1605986488319" duration="1793000" />
+      <workItem from="1605988300337" duration="1793000" />
+      <workItem from="1605990114571" duration="1792000" />
+      <workItem from="1605991967909" duration="543000" />
+      <workItem from="1605992577487" duration="176000" />
+      <workItem from="1606030820085" duration="331000" />
+      <workItem from="1606031709869" duration="824000" />
+      <workItem from="1606032598265" duration="371000" />
+      <workItem from="1606033205794" duration="1793000" />
+      <workItem from="1606035105725" duration="1204000" />
+      <workItem from="1606036423917" duration="119000" />
+      <workItem from="1606036752034" duration="1794000" />
+      <workItem from="1606038564695" duration="886000" />
+      <workItem from="1606039894762" duration="1695000" />
+      <workItem from="1606042341975" duration="1791000" />
+      <workItem from="1606044155051" duration="859000" />
+      <workItem from="1606052297974" duration="981000" />
+      <workItem from="1606053355830" duration="877000" />
+      <workItem from="1606054436229" duration="388000" />
+      <workItem from="1606056464493" duration="199000" />
+      <workItem from="1606056685433" duration="35000" />
+      <workItem from="1606056791523" duration="677000" />
+      <workItem from="1606118754387" duration="1156000" />
+      <workItem from="1606120154256" duration="1793000" />
+      <workItem from="1606121967359" duration="1793000" />
+      <workItem from="1606123824805" duration="932000" />
+      <workItem from="1606124852491" duration="565000" />
+      <workItem from="1606145991699" duration="974000" />
+      <workItem from="1606196463429" duration="960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="355" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606054133845">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="699" y="355" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1606054133845" />
+    <state x="660" y="252" width="672" height="677" key="run.anything.popup" timestamp="1606032380472">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="660" y="252" width="672" height="677" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1606032380472" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605975509014">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1605975509014" />
+  </component>
+</project>

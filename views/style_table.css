@@ -1,0 +1,36 @@
+.table_dark {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 14px;
+    width: 640px;
+    text-align: center;
+    border-collapse: separate;
+    background: #252F48;
+    margin: 10px;
+}
+.bg {
+    /* The image used */
+    background-image: url("https://img3.akspic.ru/image/44566-noch-les-krasnyj_cvet-nebo-svet-1920x1080.jpg");
+
+    /* Half height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.table_dark th {
+    color: #EDB749;
+    border-bottom: 1px solid #37B5A5;
+    padding: 12px 17px;
+}
+.table_dark td {
+    color: #CAD4D6;
+    border-bottom: 1px solid #37B5A5;
+    border-right:1px solid #37B5A5;
+    padding: 7px 17px;
+}
+
+.table_dark tr:hover td {
+    text-decoration: underline;
+}

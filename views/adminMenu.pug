@@ -1,0 +1,16 @@
+extends layout
+
+block content
+    div.text
+        h1 Admin Menu
+        ul.nav
+            h3
+                li
+                    a(href = "/find" style="color: white") Find all users
+                li
+                    a(href="/chooseUser" style="color: white") Delete user
+                li
+                    a(href="/ChooseUserForEdit" style="color: white") Edit user
+                li
+                    a(href="/logout" style="color: white") Logout
+

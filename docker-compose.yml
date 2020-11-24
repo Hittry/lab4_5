@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - db
+    ports:
+      - "5000:5000"
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_PASSWORD=1qazXsw2
+      - POSTGRES_USER=alexander
+      - POSTGRES_DB=postgres
+    container_name: my_database

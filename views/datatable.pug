@@ -1,0 +1,33 @@
+doctype html
+html
+    style
+        include style_table.css
+    div.bg
+        table(class="table_dark")
+            thead
+                tr
+                    th id
+                    th Name
+                    th Password
+                    th create
+                    th update
+            tbody
+                tr
+                td
+                    each i in ip
+                        h5=i
+                td
+                    each k in nam
+                        h5=k
+                td
+                    each p in pss
+                        h5=p
+                td
+                    each c in cr
+                        h5=c
+                td
+                    each u in upd
+                        h5=u
+
+
+
